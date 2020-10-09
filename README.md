@@ -1,4 +1,7 @@
+<!--
 ### Hi there 👋
+-->
+![Picture](https://github.com/ngoclyo/ngoclyo/blob/main/test.png?raw=true)
 
 <!--
 **ngoclyo/ngoclyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
